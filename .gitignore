@@ -1,0 +1,13 @@
+# Ignore virtual environments
+venv/
+
+# Ignore egg-info folders
+*.egg-info/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Environment/IDE
+*.env
+.vscode/
